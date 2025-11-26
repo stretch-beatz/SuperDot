@@ -1,3 +1,11 @@
+# SuperDot
+
+Making FoxDot run in the browser.
+
+Taking the wonderfulness of FoxDot, making it run in [PyScript](https://pyscript.net/) and talk to [SuperSonic](https://github.com/samaaron/supersonic) so the whole thing runs in the browser.
+
+Below is the last README for FoxDot
+
 FoxDot - Live Coding with Python v0.8
 =====================================
 
